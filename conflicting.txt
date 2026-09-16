@@ -1,2 +1,2 @@
 This is to show merge conflict
-this is main branch update
+this is main update branch
